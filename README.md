@@ -1,10 +1,10 @@
-#The Open Credit License (OCL) 1.1
+# The Open Credit License (OCL) 1.1
 
-##Preamble
+## Preamble
 
 The Open Credit License (OCL) 1.1 is designed to allow free use, modification, and redistribution of software while ensuring the original author(s) receive proper credit. This license also maintains compatibility with the GNU General Public License (GPL) 3.0 and aims to balance openness with acknowledgment of original contributions.
 
-###1. Definitions
+### 1. Definitions
 
  - A. "Software" refers to the original work licensed under this agreement, including source code, compiled binaries, documentation, and any associated media.
 
@@ -16,7 +16,7 @@ The Open Credit License (OCL) 1.1 is designed to allow free use, modification, a
 
  - E. "User-Facing Product" refers to any software, service, or application that directly interacts with end users and incorporates this Software.
 
-###2. Rights and Permissions
+### 2. Rights and Permissions
 
  - A. You are granted a perpetual, worldwide, royalty-free, non-exclusive license to use, copy, modify, and distribute this Software for any purpose, including commercial and non-commercial applications, provided that credit is given to the Original Author as outlined in Section 3.
 
@@ -28,7 +28,7 @@ The Open Credit License (OCL) 1.1 is designed to allow free use, modification, a
 
  - E. Any use of the Software, whether in part or in whole, must include a copy of this license with a list specifying the files or folders that contain the licensed content.
 
-###3. Credit and Attribution Requirements
+### 3. Credit and Attribution Requirements
 
  - A. Any distribution of the Software, including modified or combined versions, should include an acknowledgment of the Original Author in the source code or documentation where practical.
 
@@ -40,7 +40,7 @@ The Open Credit License (OCL) 1.1 is designed to allow free use, modification, a
 
  - E. Any public or commercial use of the Software should, where reasonable, include a notice stating that the Software includes components licensed under the Open Credit License (OCL) 1.1.
 
-###4. Compatibility with GPL 3.0
+### 4. Compatibility with GPL 3.0
 
  - A. The Software may be combined with or used within projects licensed under GPL 3.0, and redistribution under GPL 3.0 is permitted.
 
@@ -50,13 +50,13 @@ The Open Credit License (OCL) 1.1 is designed to allow free use, modification, a
 
  - D. When distributing the Software alongside GPL-licensed works, the terms of the Open Credit License (OCL) 1.1 should be explicitly referenced in the licensing documentation.
 
-###5. No Warranty and Liability Disclaimer
+### 5. No Warranty and Liability Disclaimer
 
  - A. This Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
  - B. In no event shall the Original Author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
-###6. Termination and Compliance
+### 6. Termination and Compliance
 
  - A. If any provision of this license is violated, the rights granted under this license are immediately revoked for the violating party.
 
@@ -68,7 +68,7 @@ The Open Credit License (OCL) 1.1 is designed to allow free use, modification, a
 
  - E. Any distributed version of the Software must include a copy of this license with a list specifying the files or folders that contain the licensed content.
 
-###7. License Versioning and Modifications
+### 7. License Versioning and Modifications
 
  - A. Future versions of this license may be published to refine or clarify its terms. The Original Author retains the right to release updated versions of the Open Credit License.
 
@@ -76,7 +76,7 @@ The Open Credit License (OCL) 1.1 is designed to allow free use, modification, a
 
  - C. No party is permitted to modify this license and distribute it under the same name or misleadingly claim compatibility with OCL 1.1.
 
-###8. Acceptance and Use
+### 8. Acceptance and Use
 
  - A. By using, modifying, or distributing this Software, you agree to the terms of the Open Credit License (OCL) 1.1.
 
